@@ -75,6 +75,4 @@ Default web root:
 
 # Checking jenkins
 
-# Making second edit, checking to see
-
-# New line
+# Making second edit, now
