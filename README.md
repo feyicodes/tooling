@@ -75,4 +75,4 @@ Default web root:
 
 # Checking jenkins
 
-# Making second edit, now /
+# Should be there on /mnt/apps
